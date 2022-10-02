@@ -4658,14 +4658,6 @@ blockquote {
     padding: 5px 0;
   }
 }
-#custom-html-57 {
-  /* Type valid CSS here */
-}
-#custom-html-57 div {
-  padding: 5px 0;
-  color: #595959;
-  text-align: center;
-}
 .cid-sTCoPiI12P {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -9670,6 +9662,9 @@ blockquote {
 }
 .cid-tj3IChYwZf .mbr-section-btn .btn {
   margin: 0;
+}
+.cid-tj3IChYwZf P {
+  text-align: center;
 }
 .cid-tj3LJOkzyy.popup-builder {
   background-color: #ffffff;
